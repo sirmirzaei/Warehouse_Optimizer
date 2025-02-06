@@ -55,6 +55,19 @@ Warehouse Optimizer is a web-based tool designed to streamline warehouse operati
 2. Download the updated warehouse layout in Excel format.
 3. The application also provides an annotated image of the optimized layout.
 
+
+## Screenshots
+
+### Upload Warehouse Map And Scales
+![Upload Warehouse Map](images/Screenshot1.png)
+
+### Grid lines Base on Warehouse Layout
+![Grid lines Base on Warehouse Layout](images/Screenshot2.png)
+
+### Producst Current Situation
+![Producst Current Situation Layout](images/Screenshot3.png)
+
+
 ## File Structure
 ```
 warehouse-optimizer/
